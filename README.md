@@ -58,7 +58,25 @@ It is important to take care of the patient, to be followed by the patient, but 
 <br />
 <p> 
   
-![Screenshot 2023-07-17 121059](https://github.com/trentree/configure-ad/assets/129711900/8f590f53-bdbe-426f-9f06-5ac9decad82d)
+![KxM7HIDO](https://github.com/trentree/configure-ad/assets/129711900/8fee3cc3-dfdf-4b6d-8f5b-7a3f492eb437)
+
+</p> 
+<p>
+It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
+</p> 
+<br />
+<p> 
+  
+![w59PbxUK](https://github.com/trentree/configure-ad/assets/129711900/724cf8c0-56a8-43a0-a195-df17e2d2add8)
+
+</p> 
+<p>
+It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
+</p> 
+<br />
+<p>
+  
+![9zt26m-U](https://github.com/trentree/configure-ad/assets/129711900/08baaba7-7389-4e12-a8ac-b7b43ed0e8db)
  
 </p> 
 <p>
@@ -66,42 +84,36 @@ It is important to take care of the patient, to be followed by the patient, but 
 </p> 
 <br />
 <p> 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/ > 
+  
+![Screenshot 2023-07-17 121059](https://github.com/trentree/configure-ad/assets/129711900/70ee44bb-b3fa-41c6-9b69-3c6c71927636)
+
 </p> 
 <p>
 It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
 </p> 
 <br />
 <p> 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/ > 
+  
+![n3yvTbsx](https://github.com/trentree/configure-ad/assets/129711900/a8639775-c0a0-4ec4-bb86-99f0020b11ce)
+
 </p> 
 <p>
 It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
 </p> 
 <br />
 <p> 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/ > 
+  
+![77LFkLNL](https://github.com/trentree/configure-ad/assets/129711900/3aa00cdf-5acd-422c-a3fe-0cd73cccdc66)
+
 </p> 
 <p>
 It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
 </p> 
 <br />
 <p> 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/ > 
-</p> 
-<p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
-</p> 
-<br />
-<p> 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/ > 
-</p> 
-<p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
-</p> 
-<br />
-<p> 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/ > 
+  
+![d8YxkfQR](https://github.com/trentree/configure-ad/assets/129711900/3192d289-401e-49b3-8ca7-9fe0152bfab4)
+
 </p> 
 <p>
 It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
