@@ -22,12 +22,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2> 
 
 - Setup Resources by creating Domain Controller and Client VM (Virtual Machine)
-- Ensure Connectivity between the resources stated above
+- Ensure connectivity between the resources stated above
 - Install Active Directory 
 - Create Admin and Normal User Account
 - Join Client to Domain
 - Setup Remote Desktop for non-admin users on Client
-- Create additional users and log into Client VM with a created user
+- Create additional users and log into the client VM with a created user
 
 <h2>Deployment and Configuration Steps</h2> 
 
@@ -36,14 +36,14 @@ This tutorial outlines the implementation of on-premises Active Directory within
 ![Screenshot 2023-07-17 113431](https://github.com/trentree/configure-ad/assets/129711900/fd644ea4-1a01-428e-b285-06f8ed3d6137)
 
 </p> 
-<p> in time they occur as with great labor and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+To start off, we created two virtual machines as our resource. One will be the Domain Client and the other will be the Client.
+<p> 
 
 ![Screenshot 2023-07-17 113820](https://github.com/trentree/configure-ad/assets/129711900/f922dcae-7ef0-4d57-9749-09059a19550c)
  
 </p> 
 <p> 
-Good 
-luck It is important to pursue a course of study, but it is time for this to happen with great effort and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
+Next, we set the Domain Client as "Static" so the private IP will NOT change.
 </p> 
 <br /> 
 
@@ -53,7 +53,7 @@ luck It is important to pursue a course of study, but it is time for this to hap
  
 </p> 
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
+Here we load up Domain Client to open Windows Defender Firewall and enable Core Network Diagnostics.
 </p> 
 <br />
 <p> 
@@ -62,7 +62,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 
 </p> 
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
+We launch "Server Manager" to download Active Directory by clicking "Add Roles and Features".
 </p> 
 <br />
 <p> 
@@ -71,7 +71,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 
 </p> 
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
+As Active Directory is finished downloading, we open the software to create an "_ADMIN" and "_EMPLOYEES" folder.
 </p> 
 <br />
 <p>
@@ -80,7 +80,7 @@ It is important to take care of the patient, to be followed by the patient, but 
  
 </p> 
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
+In the admin folder, we want to create an admin and their domain.
 </p> 
 <br />
 <p> 
@@ -89,7 +89,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 
 </p> 
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
+Here, we will boot up the "Client" Virtual Machine and set a domain there too in system properties.
 </p> 
 <br />
 <p> 
@@ -98,7 +98,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 
 </p> 
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
+Once that is done, we will close out the "Client" VM and copy our private IP from the "Domain Client" to the "Client" VM
 </p> 
 <br />
 <p> 
@@ -107,7 +107,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 
 </p> 
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
+Now, we log back into the "Client" VM, open PowerShell, and create a code to generate however many employees you desire.  
 </p> 
 <br />
 <p> 
@@ -116,7 +116,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 
 </p> 
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
+While the employees are being created, you can go back to your "Domain Client" VM and open up the "_EMPLOYEES" folder we created. We pick a random employee from the folder and use their credentials to log into the "Client" VM.
 </p> 
 <br />
 <p> 
@@ -125,6 +125,6 @@ It is important to take care of the patient, to be followed by the patient, but 
 
 </p> 
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
+Finally. We created a folder on our driver with different types of access (No-Access, Read/Write, Read Only, Accounting) for specific employees.
 </p> 
 <br />
