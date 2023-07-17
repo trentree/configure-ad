@@ -21,10 +21,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2> 
 
-- Step 1 
-- Step 2 
-- Step 3 
-- Step 4 
+- Setup Resources by creating Domain Controller and Client VM (Virtual Machine)
+- Ensure Connectivity between the resources stated above
+- Install Active Directory 
+- Create Admin and Normal User Account
+- Join Client to Domain
+- Setup Remote Desktop for non-admin users on Client
+- Create additional users and log into Client VM with a created user
 
 <h2>Deployment and Configuration Steps</h2> 
 
