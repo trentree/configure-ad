@@ -38,7 +38,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p> 
 <p> in time they occur as with great labor and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </p> 
+![Screenshot 2023-07-17 113820](https://github.com/trentree/configure-ad/assets/129711900/f922dcae-7ef0-4d57-9749-09059a19550c)
+ 
+</p> 
 <p> 
 Good 
 luck It is important to pursue a course of study, but it is time for this to happen with great effort and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. 
